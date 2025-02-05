@@ -4,7 +4,7 @@ Este projeto foi desenvolvido por **Natália Boaventura** no curso de **Análise
 
 ## Objetivo
 
-O estudo foca na análise dos chamados recebidos pelos canais de atendimento da empresa, identificando padrões, tempos de resolução e principais motivos de contato. A partir dessas métricas, é possível gerar insights para otimizar o atendimento e melhorar a eficiência do serviço.
+O estudo foca na análise dos chamados recebidos pelos canais de atendimento da empresa, limpando os dados, identificando padrões, tempos de resolução e principais motivos de contato. A partir dessas análises iniciais, será gerado um dashoard interativo e assim é possível gerar insights para otimizar o atendimento e melhorar a eficiência do serviço.
 
 ## Bases de Dados Utilizadas
 
