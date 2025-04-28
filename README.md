@@ -56,11 +56,8 @@ As bases contêm as seguintes informações:
    - Distribuição de chamados por canal
    - Volume de casos por atendente
 
-## Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+## Os dados tratados foram importados ao PowerBI e o dashboard implementado segue abaixo
+![captura_customer_service_dashboard](https://github.com/user-attachments/assets/74375686-63a7-4ce5-a18e-c93fe1998190)
 
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias no projeto. Para isso, faça um fork do repositório, crie uma nova branch para suas modificações e envie um pull request.
